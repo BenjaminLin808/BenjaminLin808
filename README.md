@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Benjamin Lin
+- 👀 I’m interested in full stack development, but I have more experience with frontend development
+- 🌱 I’m currently learning Node.js, Express.js, Python and its libraries
+- 💞️ I’m looking for any opportunities to help me gain some real world experience in web development, mobile development, and software development
+- 📫 You can reach me through my email benjaminlin808@gmail.com
