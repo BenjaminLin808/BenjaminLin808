@@ -1,4 +1,4 @@
-👋 Hi, I'm Benjamin Lin. I'm a frontend developer with a keen interest in full stack development. I have experience with building modern web applications using HTML, CSS, JavaScript, and frontend frameworks such as React.
+👋 Hi, I'm Benjamin Lin, a frontend developer with experience in full stack development. I build modern web applications using HTML, CSS, JavaScript, and React. I also create mobile apps using React Native for seamless user experiences on iOS and Android platforms. Passionate about technology and continuous learning.
 
 🌱 Currently, I'm expanding my skill set by learning Node.js, Express.js, Python and its libraries. I'm always looking to learn new technologies and frameworks to enhance my abilities as a developer.
 
